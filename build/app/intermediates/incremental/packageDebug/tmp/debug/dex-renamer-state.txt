@@ -1,0 +1,4 @@
+#Sat Jun 18 20:20:17 PKT 2022
+base.0=D\:\\New Flutter Apps\\covid_tracker19\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
